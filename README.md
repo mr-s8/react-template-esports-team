@@ -8,7 +8,7 @@
 # Template React App for a fictional Esports Team
 
 
- <a href="https://eloquent-llama-0c22f5.netlify.app/">Live Demo</a>
+ <a href="https://monumental-queijadas-ecafad.netlify.app/">Live Demo</a>
 
 
 
